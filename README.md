@@ -5,6 +5,8 @@
 
 <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotibar/%40Resources/Images/Spotibar.gif">
 
+По всем вопросам пишите в [телеграм](https://t.me/avenom). Если Spotibar оказался вам полезен, то можете [задонатить](https://avenom.ru/posts/donate) на чай.
+
 ## Spotibar Mini <a name="english"></a>
 
 * Launch Spotify on icon, minimizes back to icon when Spotify is not running
