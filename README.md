@@ -5,7 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotibar/%40Resources/Images/Spotibar.gif">
 
-По всем вопросам пишите в [телеграм](https://t.me/avenom). Если Spotibar оказался вам полезен, то можете [задонатить](https://avenom.ru/posts/donate) на чай.
+По всем вопросам пишите в [телеграм](https://t.me/avenom).
 
 ## Spotibar Mini <a name="english"></a>
 
