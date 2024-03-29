@@ -3,7 +3,7 @@
 # Spotibar
 <a href="https://github.com/avenom/spotibar/releases/tag/v0.4"><img src="https://img.shields.io/github/v/release/avenom/spotibar?color=1&label=Release"></a> <a href="https://rainmeter.net"><img src="https://img.shields.io/badge/Rainmeter-4.5.18-brightgreen"></a> <img src="https://img.shields.io/badge/Windows-7%2B-brightgreen"> <img src="https://img.shields.io/github/downloads/avenom/spotibar/total?color=1&label=Downloads">
 
-<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotibar/%40Resources/Images/Spotibar_v0.4.png">
+<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Images/Spotibar_v0.4.png">
 
 ## Spotibar <a name="english"></a>
 
@@ -14,7 +14,7 @@
 * Volume control by mouse wheel when hovering over the player, right click turns off the sound
 * Track progress and background version adapt to cover color
 
-<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotibar/%40Resources/Images/SpotibarBG.png">
+<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Images/Spotibar_BG.png">
 
 ###### * Minimize the Spotify window rather than close it to work properly.
 
@@ -43,7 +43,7 @@ You can turn on game mode in Rainmeter to turn off the skin in full screen mode.
 * Регулировка громкости колесом мыши при наведении на плеер, правый клик выключает звук
 * Прогресс трека и версия с фоном адаптируются под цвет обложки
 
-<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Spotibar/%40Resources/Images/SpotibarBG.png">
+<img src="https://raw.githubusercontent.com/avenom/Spotibar/main/Images/Spotibar_BG.png">
 
 ###### * Для правильной работы сворачивайте окно Spotify, а не закрывайте.
 
