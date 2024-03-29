@@ -8,7 +8,7 @@
 ## Spotibar <a name="english"></a>
 
 * Launch Spotify on icon, minimizes back to icon when Spotify is not running
-* Clicking on the current track and artist opens the Spotify window
+* Clicking on the current track and artist opens the Spotify window*
 * Control buttons: `Previous track` `Play/Pause` `Next track`
 * Control buttons when hovering over the cover: `Repeat track` `Shuffle tracks`
 * Volume control by mouse wheel when hovering over the player, right click turns off the sound
@@ -37,7 +37,7 @@ You can turn on game mode in Rainmeter to turn off the skin in full screen mode.
 ## Spotibar <a name="russian"></a>
 
 * Запуск Spotify по иконке, сворачивается обратно в иконку, когда Spotify не запущен
-* Клик по текущему треку и исполнителю открывает окно Spotify
+* Клик по текущему треку и исполнителю открывает окно Spotify*
 * Кнопки управления:  `Предыдущий трек` `Плей/Пауза` `Следующий трек`
 * Кнопки управления при наведении на обложку: `Повторять трек` `Перемешать треки`
 * Регулировка громкости колесом мыши при наведении на плеер, правый клик выключает звук
